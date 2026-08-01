@@ -2,6 +2,25 @@
 
 Practical Bash scripts created while learning Linux System Administration.
 
+## Daily Exercises
+
+- Day 1 - Variables & Input
+- Day 2 - Conditions
+- Day 3 - Loops
+- Day 4 - Functions
+
+## Mini Project
+
+- system_health_check.sh
+
+Features:
+- Hostname
+- Date
+- Disk Usage
+- Memory Usage
+- Service Status
+- Automatic Logging
+
 ## Topics Covered
 
 - Variables
@@ -23,6 +42,12 @@ day2/
 - check_file.sh
 - check_directory.sh
 - compare_number.sh
+
+day3-4/
+- check_services.sh
+
+project/
+- system_healt_check.sh
 
 ## Environment
 
