@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Check whether file exists
+
 if [ -f checkfile.txt ]; then
     echo "file exist"
 else
