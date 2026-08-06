@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define log filename based on the current date
-LOG_FILE="diagnostic-report-$(date +'%Y-%m-%d').log"
+LOG_FILE="diagnostic-report-$(date +'%Y%m%d_%H%M%S').log"
 
 # Main function to generate the system diagnostic report
 generate_report() {

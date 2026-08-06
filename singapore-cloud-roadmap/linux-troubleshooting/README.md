@@ -31,3 +31,19 @@ Develop production-grade diagnostic and troubleshooting skills for Linux systems
 ├── case-studies/   # Detailed post-mortems and step-by-step incident breakdowns
 ├── commands/       # Categorized Linux cheat-sheets for rapid incident response
 └── scripts/        # Automation scripts for server health checks and diagnostics
+
+---
+
+##  ⚙️ Technologies
+
+Linux
+
+Bash
+
+systemd
+
+journalctl
+
+SSH
+
+Nginx
