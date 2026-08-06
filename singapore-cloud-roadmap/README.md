@@ -18,6 +18,7 @@ Learning tracks:
 Learn
 - Linux Fundamentals ✅
 - Linux Shell Scripting ✅
+- Linux troubleshooting ✅
 
 Certification
 - NDG Linux Unhatched – Cisco Networking Academy https://www.credly.com/badges/96b8636c-5d38-4c46-8da8-f9a8f55c8ce2/public_url
